@@ -4,4 +4,4 @@
 #it uses the asynchronous JavaScript, the fetch API From external API....
 
 
-!['scope to the app '](C:\ProjectJavaScript\JavaScript-Brad-Udemy\Project-API\GithubFinder\img\githubCaption.png)
+!['scope to the app '](C:/ProjectJavaScript/JavaScript-Brad-Udemy/Project-API/GithubFinder/img/githubCaption.png)
